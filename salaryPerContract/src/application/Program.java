@@ -9,6 +9,7 @@ import java.util.Scanner;
 import entitiess.Department;
 import entitiess.HourContract;
 import entitiess.Worker;
+import entitiess.WorkerLevel;
 
 public class Program {
 
